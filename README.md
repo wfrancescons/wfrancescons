@@ -2,7 +2,7 @@
 
 🇺🇸: 💻 A full stack developer and student 📚, currently learning and building real-world projects 🛠️. Here you’ll find some of my projects and the tools I use.
 
-🇧🇷: *💻 Desenvolvedor full stack e estudante 📚, atualmente aprendendo e construindo projetos práticos 🛠️. Aqui você encontra alguns dos meus projetos e as ferramentas que utilizo.*
+🇧🇷: *Desenvolvedor full stack e estudante, atualmente aprendendo e construindo projetos práticos. Aqui você encontra alguns dos meus projetos e as ferramentas que utilizo.*
 
 ---
 
