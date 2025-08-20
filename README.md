@@ -9,19 +9,19 @@
 ## 🛠️ Languages and Tools  
 
 ### Programming Languages  
-![Programming Languages](https://skillicons.dev/icons?i=js,ts,py)
+![Programming Languages](https://skills.syvixor.com/api/icons?i=javascript,typescript,python)
 
 ### Currently Learning  
-![Currently Learning](https://skillicons.dev/icons?i=rust,go)
+![Currently Learning](https://skills.syvixor.com/api/icons?i=rust,golang)
 
 ### Frontend  
-![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css)
+![Frontend](https://skills.syvixor.com/api/icons?i=reactjs,preact,tailwindcss,html,css3)
 
 ### Backend & Frameworks  
-![Backend & Frameworks](https://skillicons.dev/icons?i=deno,nodejs,express)
+![Backend & Frameworks](https://skills.syvixor.com/api/icons?i=deno,nodejs,fresh,hono,expressjs)
 
 ### Databases  
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+![Databases](https://skills.syvixor.com/api/icons?i=oracle,mysql,mongodb)
 
 ### Design Tools  
-![Design Tools](https://skillicons.dev/icons?i=photoshop,illustrator,figma)
+![Design Tools](https://skills.syvixor.com/api/icons?i=adobephotoshop,adobeillustrator,capcut,figma)
