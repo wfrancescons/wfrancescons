@@ -4,8 +4,6 @@
 
 🇧🇷: *Desenvolvedor full stack e web designer. Trabalho em projetos aleatórios no meu tempo livre e você pode conferir alguns deles aqui!*
 
----
-
 ## 🛠️ Languages and Tools  
 
 ### Programming Languages  
